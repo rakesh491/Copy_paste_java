@@ -18,7 +18,7 @@ import javax.imageio.stream.FileImageOutputStream;
 import javax.swing.*;
 
 
-
+//Class
 public class Tester extends JPanel{
 	static String fname = null;
 	static Object lock = new Object();
